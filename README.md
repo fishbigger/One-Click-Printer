@@ -15,7 +15,7 @@ pip3 install Flask
 * Plug you printer into the USB0 port
 * Run `apiController.py`
 * Find the local IP address of your pi
-* Use the following api schema to control your printer
+* Use the following api schema on port 5000 to control your printer
 
 ## API Schema
 #### Get Position:
